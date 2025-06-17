@@ -1,6 +1,6 @@
 name: "HOBEIAN for Zigbee2mqtt"
 version: "1.0.1"
-slug: "hobeian-for-zigbee2mqtt"
+slug: "hobeian-for-zigbee-2mqtt"
 description: "HOBEIAN brand upgrade, suitable for Zigbee2MQTT version iteration, Zigbee 3.0 new product adaptation"
 url: "https://github.com/waxgourd-ha/hobeian-addons"
 arch:
